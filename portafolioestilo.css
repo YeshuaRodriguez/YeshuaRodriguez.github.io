@@ -207,7 +207,7 @@ hr {
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     border-radius: 20px;
-    border: 1px solid rgba(255, 255, 255, 0.18);
+    border: 1px solid rgba(59, 53, 53, 0.18);
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
     width: 300px;
     height: 100px;
@@ -283,8 +283,8 @@ hr {
 /* Estilos para las cards */
 .card {
     width: 250px;
-    background-color: rgba(255, 255, 255, 0.151);
-    border: 2px solid rgba(255, 255, 255, 0.192);
+    background-color: rgba(0, 0, 0, 0.192);
+    border: 2px solid rgba(48, 45, 45, 0.192);
     border-radius: 10px;
     padding: 20px;
     text-align: center;
@@ -316,8 +316,8 @@ hr {
 
 .card:hover {
     transform: scale(1.05);
-    border: 2px solid rgba(255, 255, 255, 0.356);
-    background-color: rgba(255, 255, 255, 0.219);
+    border: 2px solid rgba(27, 23, 23, 0.377);
+    background-color: rgba(0, 0, 0, 0.308);
 }
 
 .card-container a{
